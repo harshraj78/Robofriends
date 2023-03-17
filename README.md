@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Getting Started with Create React App : ROBOFRIENDS
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img align = "right" alt = "React" width = "120" src = "https://www.andreasreiterer.at/wp-content/uploads/2017/11/react-logo-825x510.jpg" >
 
 ## Available Scripts
 
@@ -68,3 +69,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+<img align="centre" alt="Robofriends" width="1200" src="https://user-images.githubusercontent.com/43598622/56959352-fb684500-6b6e-11e9-84f2-df3e42c560d6.jpg">
+
